@@ -4,7 +4,7 @@
 
 
 ## Technologie, z którymi pracuję 😎
-![Static Badge](https://img.shields.io/badge/Python)
+[![Static Badge](https://img.shields.io/badge/Python)](https://simpleicons.org/?modal=icon&q=python)
 
 <!--
 **KrystianKaminskiWSB/KrystianKaminskiWSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
