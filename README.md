@@ -1,4 +1,10 @@
-## Hi there 👋
+# Witaj, z tej strony Krystian ! 🙌
+#3776AB
+
+
+
+## Technologie, z którymi pracuję 😎
+![Static Badge](https://img.shields.io/badge/Python)
 
 <!--
 **KrystianKaminskiWSB/KrystianKaminskiWSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
