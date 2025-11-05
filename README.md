@@ -1,10 +1,11 @@
-# Witaj, z tej strony Krystian ! 🙌
-#3776AB
-
+# Witaj, z tej strony Krystian ! 🙌                                                                                                ![BruceIsATypingBoss-BruceAlmightyGIF](https://github.com/user-attachments/assets/af72f6c9-32aa-4532-83f3-cac8f1f87667)
+Lubię kod, kawę i dobre pomysły.
+Eksperymentuję z różnymi technologiami i uczę się każdego dnia.
+Jeśli coś Ci się spodoba — śmiało daj ⭐ albo napisz! 😄
+![BruceIsATypingBoss-BruceAlmightyGIF](https://github.com/user-attachments/assets/af72f6c9-32aa-4532-83f3-cac8f1f87667)
 
 
 ## Technologie, z którymi pracuję 😎
-[![Static Badge](https://img.shields.io/badge/Python)](https://simpleicons.org/?modal=icon&q=python)
 
 <!--
 **KrystianKaminskiWSB/KrystianKaminskiWSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
