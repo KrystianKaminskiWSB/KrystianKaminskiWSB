@@ -1,4 +1,4 @@
-# Witaj, z tej strony Krystian ! 🙌                                                                                              
+# 🙌 Witaj, z tej strony Krystian ! 🙌                                                                                              
 Lubię kod, kawę i dobre pomysły. Eksperymentuję z różnymi technologiami i uczę się każdego dnia.
 Eksperymentuję z różnymi technologiami i uczę się każdego dnia. Jeśli coś Ci się spodoba — śmiało daj ⭐ albo napisz! 😄
 
@@ -7,7 +7,7 @@ Eksperymentuję z różnymi technologiami i uczę się każdego dnia. Jeśli co�
                                                                                                 
 
 
-## Technologie, z którymi pracuję 😎
+## 😎 Technologie, z którymi pracuję 😎
 
 ## ⭐Statystyki⭐
 [![Moje statystyki](https://github-readme-stats.vercel.app/api?username=KrystianKaminskiWSB&show_icons=true&theme=radical)]
