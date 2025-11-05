@@ -10,7 +10,7 @@ Eksperymentuję z różnymi technologiami i uczę się każdego dnia. Jeśli co�
 ## Technologie, z którymi pracuję 😎
 
 ## ⭐Statystyki⭐
-[![Moje statystyki](https://github-readme-stats.vercel.app/api?username=KrystianKaminskiWSB)]
+[![Moje statystyki](https://github-readme-stats.vercel.app/api?username=KrystianKaminskiWSB&show_icons=true&theme=radical)]
 <!--
 **KrystianKaminskiWSB/KrystianKaminskiWSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
