@@ -8,7 +8,7 @@ Eksperymentuję z różnymi technologiami i uczę się każdego dnia. Jeśli co�
 
 
 ## 😎 Technologie, z którymi pracuję 😎
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## ⭐Statystyki⭐
 [![Moje statystyki](https://github-readme-stats.vercel.app/api?username=KrystianKaminskiWSB&show_icons=true&theme=radical)]
 <!--
